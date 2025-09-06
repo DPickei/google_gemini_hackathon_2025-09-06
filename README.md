@@ -1,4 +1,4 @@
-# Command 
+# Syntax Support
 Gemini CLI powered assistant for making commands. Use natural language OR partial command syntax and it will complete your command! After, you can quiz yourself on the command to improve your command capabilities.
 
 ## Features
