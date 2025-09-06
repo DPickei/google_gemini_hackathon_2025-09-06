@@ -16,6 +16,8 @@ requires-python = ">=3.10"
 [project.scripts]
 gemini-helper = "src.main:main"
 gemini-complete = "src.shell_integration:main"
+gemini-learn = "src.learning_integration:main"
+gemini-quiz = "src.quiz:main"
 
 [build-system]
 requires = ["hatchling"]
